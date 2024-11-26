@@ -34,4 +34,4 @@ This is a submission project on the "Belajar Analisis Data dengan Python" course
    cd submission-dicoding-data-analysis
    streamlit run dashboard.py
    ```
-Access the dashboard in your web browser at `http://localhost:8501`.
+Access the dashboard in your web browser at `https://e-commerce-submission-analysis.streamlit.app/`.
