@@ -1,1 +1,1 @@
-link for dashboard : http://localhost:8501
+link for dashboard : https://brazil-e-commerce-data-analysis.streamlit.app/
