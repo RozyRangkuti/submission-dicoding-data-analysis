@@ -14,7 +14,7 @@ sns.set_theme(style='darkgrid')
 
 # main dataset
 datetime_cols = ["order_approved_at", "order_delivered_carrier_date", "order_delivered_customer_date", "order_estimated_delivery_date", "order_purchase_timestamp", "shipping_limit_date"]
-all_data = pd.read_csv("main_data.csv")
+all_data = pd.read_csv("dashboard/main_data.csv")
 all_data.sort_values(by="order_approved_at", inplace=True)
 all_data.reset_index(inplace=True)
 
