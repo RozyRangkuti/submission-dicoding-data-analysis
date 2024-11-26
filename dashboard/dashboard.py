@@ -19,7 +19,7 @@ all_data.sort_values(by="order_approved_at", inplace=True)
 all_data.reset_index(inplace=True)
 
 # Geolocation dataset
-geolocation = pd.read_csv("geolocation.csv")
+geolocation = pd.read_csv("dashboard/geolocation.csv")
 data = geolocation.drop_duplicates(subset='customer_unique_id')
 
 for col in datetime_cols:
