@@ -58,8 +58,6 @@ sum_order_items_df = function.create_sum_order_items_df()
 product_price_df = function.create_product_price_df()
 monthly_orders_df = function.create_monthly_orders_df()
 review_score, common_score = function.review_score_df()
-state, most_common_state = function.create_bystate_df()
-order_status, common_status = function.create_order_status_df()
                     
 # title
 st.header('Brazil E-Commerce Analysis Data')
