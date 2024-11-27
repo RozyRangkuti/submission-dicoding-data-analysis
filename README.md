@@ -32,6 +32,6 @@ This is a submission project on the "Belajar Analisis Data dengan Python" course
 3. Visualization: Run the Streamlit dashboard to interactively explore the data.
    ```
    cd submission-dicoding-data-analysis
-   streamlit run dashboard.py
+   streamlit run dashboard/dashboard.py
    ```
 Access the dashboard in your web browser at `https://e-commerce-submission-analysis.streamlit.app/`.
