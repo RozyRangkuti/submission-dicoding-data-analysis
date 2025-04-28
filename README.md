@@ -1,4 +1,4 @@
-# submission-dicoding-data-analysis
+# Data Analysis E-Commerce
 
 ## Description
 This is a submission project on the "Belajar Analisis Data dengan Python" course at dicoding.com.
