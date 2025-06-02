@@ -1,4 +1,4 @@
-# Data Analysis E-Commerce
+# E-Commerce Data Analysis
 
 ## Description
 This is a submission project on the "Belajar Analisis Data dengan Python" course at dicoding.com.
